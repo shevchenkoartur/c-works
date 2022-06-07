@@ -1,0 +1,15 @@
+E:\_\Artur\PseudoRandom\Practice\Artur_practice\bin\Release\CourseWord_Practice.exe.config
+E:\_\Artur\PseudoRandom\Practice\Artur_practice\bin\Release\CourseWord_Practice.exe
+E:\_\Artur\PseudoRandom\Practice\Artur_practice\bin\Release\CourseWord_Practice.pdb
+E:\_\Artur\PseudoRandom\Practice\Artur_practice\obj\Release\Artur_practice.csprojAssemblyReference.cache
+E:\_\Artur\PseudoRandom\Practice\Artur_practice\obj\Release\MainWindow.g.cs
+E:\_\Artur\PseudoRandom\Practice\Artur_practice\obj\Release\App.g.cs
+E:\_\Artur\PseudoRandom\Practice\Artur_practice\obj\Release\CourseWord_Practice_MarkupCompile.cache
+E:\_\Artur\PseudoRandom\Practice\Artur_practice\obj\Release\CourseWord_Practice_MarkupCompile.lref
+E:\_\Artur\PseudoRandom\Practice\Artur_practice\obj\Release\MainWindow.baml
+E:\_\Artur\PseudoRandom\Practice\Artur_practice\obj\Release\CourseWord_Practice.g.resources
+E:\_\Artur\PseudoRandom\Practice\Artur_practice\obj\Release\MainNamespace.Properties.Resources.resources
+E:\_\Artur\PseudoRandom\Practice\Artur_practice\obj\Release\Artur_practice.csproj.GenerateResource.cache
+E:\_\Artur\PseudoRandom\Practice\Artur_practice\obj\Release\Artur_practice.csproj.CoreCompileInputs.cache
+E:\_\Artur\PseudoRandom\Practice\Artur_practice\obj\Release\CourseWord_Practice.exe
+E:\_\Artur\PseudoRandom\Practice\Artur_practice\obj\Release\CourseWord_Practice.pdb
